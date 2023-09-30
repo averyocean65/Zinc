@@ -399,9 +399,8 @@ FodyWeavers.xsd
 .idea/
 
 # Build
-./Core.dll
+Core.dll
 
 # Dependencies
-
 !Dependencies/
 !libs/**/*
