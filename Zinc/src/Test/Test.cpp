@@ -6,9 +6,7 @@
 #include "Vert.h"
 #include "Shader.h"
 
-#include "Buffers/VAO.h"
-#include "Buffers/VBO.h"
-#include "Buffers/IBO.h"
+#include <Buffers/Buffers.h>
 
 /// <summary>
 /// Prints an event using event.ToString()

@@ -19,19 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Buffers\BufferBase.h" />
-    <ClInclude Include="Buffers\VAO.h" />
-    <ClInclude Include="Buffers\VBO.h" />
-    <ClInclude Include="Buffers\IBO.h" />
+    <ClInclude Include="Buffers\Buffers.h" />
     <ClInclude Include="Shader.h" />
     <ClInclude Include="Vert.h" />
     <ClInclude Include="Window\Window.h" />
     <ClInclude Include="Graphics\Zinc.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Buffers\VAO.cpp" />
-    <ClCompile Include="Buffers\VBO.cpp" />
-    <ClCompile Include="Buffers\IBO.cpp" />
+    <ClCompile Include="Buffers\Buffers.cpp" />
     <ClCompile Include="Shader.cpp" />
     <ClCompile Include="Window\Window.cpp" />
     <ClCompile Include="Graphics\Zinc.cpp" />
