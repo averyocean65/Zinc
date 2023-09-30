@@ -1,4 +1,4 @@
 Zinc/**/*
-!Zinc/Graphics/include
+!Zinc/Graphics/include/
 
 !glew/**/*
